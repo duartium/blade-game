@@ -1,0 +1,32 @@
+# Archivos generados por Unity que no deben versionarse
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Capturas de memoria que pueden ser muy grandes
+MemoryCaptures/
+
+# Archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos generados por Unity en colisiones o errores
+sysinfo.txt
+
+# Archivos de compilación y paquetes
+*.apk
+*.unitypackage
+
+# Archivos específicos de MacOS y Windows
+.DS_Store
+ehthumbs.db
+Thumbs.db
